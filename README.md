@@ -1,1 +1,1 @@
-# here are two files : html and css file .
+# only html and css file .
